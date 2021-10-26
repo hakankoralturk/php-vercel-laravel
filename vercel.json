@@ -11,7 +11,7 @@
     ],
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "false",
+        "APP_DEBUG": "true",
         "APP_URL": "https://vercel-laravel-sigma.vercel.app",
         "APP_KEY": "HK_APP_KEY_2021",
         "APP_CONFIG_CACHE": "/tmp/config.php",

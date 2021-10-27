@@ -12,7 +12,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://vercel-laravel-sigma.vercel.app",
+        "APP_URL": "https://lara.koralturk.com",
         "APP_KEY": "base64:8DneScksQaWYkKy8m9uo0ktTRukjIUJqU5VCPMCIHuQ=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",

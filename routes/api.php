@@ -14,8 +14,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/getIp', function(){
-    return 'getIp';
+Route::get('/ip', function(){
+    return 'ip';
 });
 
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
